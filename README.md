@@ -185,7 +185,7 @@ function modelLoaded() {
 
 
 ## Site Web
-https://maelvalin.github.io/RushDungeon/
+https://AaronWalker19.github.io/RushDungeon/
 
 ## 📝 License
 
